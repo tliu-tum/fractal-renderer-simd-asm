@@ -5,6 +5,10 @@ The same algorithm is implemented twice: once in plain C as a reference, and onc
 
 Built as part of a university systems programming course (C, Assembly, performance analysis).
 
+![Burning Ship fractal render](docs/media/render.png)
+
+![ASM vs C output comparison across zoom levels and resolutions](docs/media/comparison.png)
+
 ## Files
 
 ```
